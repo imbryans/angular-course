@@ -1,3 +1,3 @@
 # Angular course
 
-Course teached by Fernando Herrera, watched in Udemy.
+Course teached by Fernando Herrera on Udemy.
